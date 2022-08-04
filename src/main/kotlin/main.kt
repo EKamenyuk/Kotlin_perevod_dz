@@ -1,7 +1,7 @@
 
 fun main () {
-    var amount = 650_00  // изменяемая переменая
-    val interestRate = 0.0075
+    var amount = 20_000_00  // изменяемая переменая
+    val interestRate = 0.0075F
     val interestRateMinimum = 35_00
 
     val commission = amount * interestRate
